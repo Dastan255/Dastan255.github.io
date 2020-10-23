@@ -1,0 +1,257 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 100%;
+}
+.up-content {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    padding-top: 3%;
+}
+.up-content img {
+    width: 150px;
+    height: 150px;
+}
+.up-content h2 {
+    color: #0088a2;
+    text-transform: uppercase;
+    text-transform: normal;
+    font-size: 52px;
+    line-height: 52px;
+}
+.up-content {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    padding-top: 3%;
+}
+nav {
+    width: 100%;
+    margin-top: 3%;
+    background-color: #808080;
+}
+.cards {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+}
+.card {
+    width: 30%;
+    position: relative;
+}
+.card img {
+    width: 100%;
+}
+.card p {
+    position: absolute;
+    top: 30%;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 33px;
+    align-items: center;
+    text-align: center;
+}
+.card {
+    width: 30%;
+    position: relative;
+}
+.card {
+    width: 30%;
+    position: relative;
+}
+.card img {
+    width: 100%;
+}
+.card p {
+    position: absolute;
+    top: 30%;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 33px;
+    align-items: center;
+    text-align: center;
+}
+.card {
+    width: 30%px;
+    position: relative;
+}
+.cards {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%
+}
+header {
+    width: 100%;
+}
+section {
+    width: 100%;
+    margin-top: 3%;
+    border-top: 4px solid #e5e5e5;
+}
+section h3{
+    text-align: center;
+    color: #0088a2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 70px;
+}
+section .video {
+    width: 96%;
+    margin: auto;
+    position: relative;
+}
+section .video-img {
+width: 100%;
+}
+section .play-btn {
+    position: absolute;
+    left: 45%;
+    top: 40%;
+    cursor: pointer;
+}
+section .video {
+    width: 96%;
+    margin: auto;
+    position: relative;
+}
+section .questions {
+    padding-top: 5%;
+    position: relative;
+    width: 75%;
+    margin: auto;
+    height: 600px;   
+}
+
+element.style {
+}
+section .questions img {
+    position: absolute;
+    width: 300px;
+    height: 550px;
+}
+
+section .questions img:nth-child(2n) {
+    top: 120px;
+    left: 200px;
+}
+section .questions img:nth-child(3) {
+    left: 400px;
+}
+section .questions img {
+    position: absolute;
+    width: 300px;
+    height: 550px;
+}
+section .questions img:nth-child(4) {
+    left: 600px;
+}
+section .questions img:nth-child(2n) {
+    top: 120px;
+    left: 200px;
+}
+section .questions img {
+    position: absolute;
+    width: 300px;
+    height: 550px;
+}
+section .questions img:nth-child(5) {
+    left: 800px;
+}
+section .questions img {
+    position: absolute;
+    width: 300px;
+    height: 550px;
+}
+section .questions img:nth-child(4) {
+    left: 600px;
+}
+section .questions img:nth-child(2n) {
+    top: 120px;
+    left: 200px;
+}
+section .questions img {
+    position: absolute;
+    width: 300px;
+    height: 550px;
+}
+section .questions img:nth-child(5) {
+    left: 800px;
+}
+section .questions img {
+    position: absolute;
+    width: 300px;
+    height: 550px;
+}
+ection .questions {
+    padding-top: 5%;
+    position: relative;
+    width: 75%;
+    margin: auto;
+    height: 600px;
+}
+section {
+    width: 100%;
+    margin-top: 3%;
+    border-top: 4px solid #E5E5E5;
+}
+section {
+    width: 100%;
+    margin-top: 3%;
+    border-top: 4px solid #E5E5E5;
+}
+section h3 {
+    text-align: center;
+    color: #0088A2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 70px;
+}
+section h3 {
+    text-align: center;
+    color: #0088A2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 70px;
+}
+section {
+    width: 100%;
+    margin-top: 3%;
+    border-top: 4px solid #E5E5E5;
+}
+section h3 {
+    text-align: center;
+    color: #0088A2;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 70px;
+}
+
+element.style {
+}
+section {
+    width: 100%;
+    margin-top: 3%;
+    border-top: 4px solid #E5E5E5;
+}
+
+
+
+
+  
